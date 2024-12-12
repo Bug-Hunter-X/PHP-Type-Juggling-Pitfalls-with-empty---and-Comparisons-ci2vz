@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP related to loose typing and unexpected type juggling. The bug involves the use of the empty() function and comparisons between strings and integers, leading to incorrect program logic. The solution provides a corrected version that explicitly handles type checking and avoids implicit conversions to prevent such errors.
